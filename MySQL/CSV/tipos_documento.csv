@@ -1,0 +1,23 @@
+﻿cod_tipo_documento_pk;nombre_tipo_documento
+R.C.;Registro civil de nacimiento (RC)
+T.I.;Tarjeta de identidad (TI)
+C.C.;Cédula de ciudadanía (CC)
+P.P.;Pasaporte (PP)
+C.E.;Cédula de extranjería (CE)
+R.E.M.;Registro de extranjero menor de edad
+S.C.;Salvoconducto (SC)
+D.R.A.;Documento de refugiado o solicitante de asilo
+P.E.P.;Permiso Especial de Permanencia (PEP)
+P.P.T.;Permiso por Protección Temporal (PPT)
+P.I.P.;Permiso de Ingreso y Permanencia (PIP)
+D.R.V.;Documento de retorno voluntario (DRV)
+N.I.T.;Número de Identificación Tributaria (NIT)
+R.U.T.;Registro Único Tributario (RUT)
+L.M.;Libreta militar (LM)
+T.R.;Tarjeta de reservista
+L.C.;Licencia de conducción
+T.P.V.;Tarjeta de propiedad del vehículo
+R.U.N.T.;Registro Único Nacional de Tránsito (RUNT ID)
+C.D.;Carné diplomático (CD)
+C.M.I.;Carné de misión internacional
+C.N.V.;Certificado de nacido vivo (CNV)

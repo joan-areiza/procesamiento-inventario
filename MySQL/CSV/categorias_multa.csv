@@ -1,0 +1,95 @@
+﻿nombre_categoria_multa;descripcion_categoria_multa
+A01;No portar la licencia de conducción.
+A02;Conducir sin portar la licencia de tránsito del vehículo.
+A03;No portar el Seguro Obligatorio de Accidentes de Tránsito (SOAT).
+A04;No portar el certificado vigente de revisión técnico-mecánica cuando sea obligatorio.
+A05;No mantener visibles las placas del vehículo.
+A06;Conducir con placas en mal estado o ilegibles.
+A07;No portar los elementos de prevención y seguridad exigidos.
+A08;No mantener en adecuado estado los dispositivos de seguridad del vehículo.
+A09;Conducir sin llevar la documentación requerida por la autoridad.
+A10;No atender las instrucciones impartidas por las autoridades de tránsito.
+A11;Obstaculizar la labor de las autoridades de tránsito.
+A12;Incumplir otras obligaciones documentales previstas en la normativa de tránsito.
+B01;Conducir un vehículo sin luces reglamentarias cuando sean obligatorias.
+B02;Utilizar dispositivos luminosos no autorizados.
+B03;Conducir con vidrios o elementos que reduzcan la visibilidad permitida.
+B04;Circular con el sistema de escape en mal estado generando exceso de ruido.
+B05;Utilizar señales audibles de uso exclusivo de vehículos de emergencia.
+B06;Transportar pasajeros incumpliendo las condiciones de seguridad establecidas.
+B07;Circular sin los espejos retrovisores o en mal estado.
+C01;No utilizar el cinturón de seguridad cuando sea obligatorio.
+C02;Estacionar un vehículo en sitios prohibidos.
+C03;Bloquear una intersección o paso peatonal con el vehículo.
+C04;Estacionar en zonas destinadas para personas con discapacidad sin autorización.
+C05;Estacionar sobre andenes, zonas verdes o espacio público no autorizado.
+C06;No respetar las señales de tránsito reglamentarias.
+C07;Exceder los límites máximos de velocidad permitidos.
+C08;No detenerse ante una señal de Pare.
+C09;No respetar la luz roja del semáforo.
+C10;Adelantar en sitios prohibidos o de manera peligrosa.
+C11;Realizar maniobras peligrosas que pongan en riesgo la seguridad vial.
+C12;Conducir utilizando teléfonos móviles u otros dispositivos electrónicos sin sistema de manos libres.
+C13;No ceder el paso a peatones en los cruces autorizados.
+C14;Invadir el carril contrario sin justificación.
+C15;Circular en sentido contrario al autorizado.
+C16;Realizar giros prohibidos por la señalización.
+C17;No conservar la distancia mínima de seguridad con otros vehículos.
+C18;Recoger o dejar pasajeros en sitios no autorizados.
+C19;Circular por carriles de uso exclusivo sin autorización.
+C20;No utilizar las direccionales al realizar giros o cambios de carril.
+C21;Circular con puertas abiertas o permitir que los pasajeros viajen en condiciones inseguras.
+C22;No disminuir la velocidad al aproximarse a un paso peatonal.
+C23;Transitar por zonas restringidas sin autorización.
+C24;No respetar la prelación de paso establecida por las normas de tránsito.
+C25;Transportar personas excediendo la capacidad autorizada del vehículo.
+C26;Circular con carga mal asegurada que represente riesgo para la vía.
+C27;No utilizar los dispositivos de seguridad exigidos para menores de edad.
+C28;Conducir un vehículo con fallas mecánicas que comprometan la seguridad vial.
+C29;No conservar las condiciones técnicas mínimas exigidas para circular.
+C30;Conducir sin los dispositivos de iluminación requeridos en horario nocturno.
+C31;No facilitar el paso a vehículos de emergencia.
+C32;Cambiar de carril sin las precauciones reglamentarias.
+C33;No obedecer las señales de un agente de tránsito.
+C34;Realizar competencias o carreras en la vía pública sin autorización.
+C35;Obstruir el tránsito de otros vehículos sin causa justificada.
+C36;Circular por zonas peatonales sin autorización.
+C37;Remolcar otro vehículo incumpliendo las condiciones legales.
+C38;Conducir realizando maniobras peligrosas o temerarias.
+C39;Incumplir otras normas de circulación clasificadas en la categoría C.
+D01;Conducir sin haber obtenido licencia de conducción.
+D02;Permitir que una persona sin licencia conduzca el vehículo.
+D03;Conducir con la licencia suspendida o cancelada.
+D04;Conducir un vehículo con placas adulteradas o falsas.
+D05;Circular con un vehículo sin estar matriculado.
+D06;Evadir un control o puesto de las autoridades de tránsito.
+D07;Conducir un vehículo con sobrepeso superior al autorizado.
+D08;Transportar carga peligrosa incumpliendo la reglamentación vigente.
+D09;Modificar las características originales del vehículo sin autorización.
+D10;Conducir un vehículo sin el Seguro Obligatorio de Accidentes de Tránsito (SOAT) vigente.
+D11;Prestar servicio público con un vehículo no autorizado para ello.
+D12;Transportar pasajeros en condiciones que pongan en riesgo su integridad.
+D13;Transportar mercancías excediendo las dimensiones autorizadas sin permiso.
+D14;Conducir un vehículo con documentos adulterados o falsificados.
+D15;Alterar o retirar las placas de identificación del vehículo.
+D16;Abandonar un vehículo involucrado en un accidente de tránsito.
+D17;Incumplir las normas especiales para el transporte de pasajeros o carga.
+E01;Negarse a realizar la prueba de alcoholemia ordenada por la autoridad.
+E02;Conducir un vehículo destinado al servicio público sin cumplir los requisitos legales.
+E03;Transportar pasajeros en un vehículo no habilitado para servicio público.
+E04;Utilizar un vehículo de servicio público sin la documentación reglamentaria.
+E05;Incumplir las condiciones de operación establecidas para empresas de transporte.
+E06;Prestar un servicio diferente al autorizado para el vehículo.
+E07;Modificar o alterar el taxímetro u otros dispositivos de control tarifario.
+E08;Transportar carga peligrosa sin cumplir las normas de seguridad.
+E09;Conducir un vehículo de transporte público sin la capacitación exigida.
+E10;Incumplir las normas sobre tiempos de conducción y descanso en el transporte.
+E11;No cumplir con las revisiones técnico-mecánicas exigidas para el servicio público.
+E12;Operar un vehículo de servicio público con fallas que comprometan la seguridad.
+E13;No portar o no exhibir la tarjeta de operación cuando sea obligatoria.
+E14;Incumplir otras obligaciones establecidas para el transporte público.
+F01;Conducción bajo efectos del alcohol o sustancias psicoactivas (primer grado o reincidencia según la ley).
+F02;Conducción bajo efectos del alcohol o sustancias psicoactivas (segundo grado o reincidencia según la ley).
+F03;Conducción bajo efectos del alcohol o sustancias psicoactivas (tercer grado o reincidencia según la ley).
+F04;Conducción bajo efectos del alcohol o sustancias psicoactivas con agravantes establecidos por la ley.
+F05;Conducción bajo efectos del alcohol o sustancias psicoactivas 

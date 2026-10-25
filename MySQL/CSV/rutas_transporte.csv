@@ -1,0 +1,8 @@
+﻿nombre_ruta;id_categoria_ruta_fk;cod_municipio_origen_ruta_fk;cod_municipio_destino_ruta_fk;tiempo_ruta;distancia_ruta
+Popayán - Silvia;1;19001;19743;80;58
+Popayán - Iturmina Inzá (Inzá);1;19001;19355;165;105
+Popayán - Piendamó;1;19001;19548;35;35
+Popayán - Pereira;2;19001;66001;270;270
+Popayán - Santander de Quilichao;1;19001;19698;80;75
+Popayán - Armenia;2;19001;63001;300;285
+Popayán - Cali;2;19001;76001;150;140

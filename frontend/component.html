@@ -1,0 +1,14 @@
+<div style="padding: 20px;">
+  <h3>Carga Masiva de Inventario</h3>
+  
+  <!-- Input para seleccionar el archivo Excel -->
+  <input type="file" (change)="onFileSelected($event)" accept=".xlsx, .xls" />
+  
+  <!-- Botón para disparar la subida -->
+  <button (click)="subirArchivo()" [disabled]="!selectedFile">Subir Archivo</button>
+
+  <!-- Mensaje de respuesta -->
+  <div *ngIf="responseMessage">
+    <pre>{{ responseMessage | json }}</pre>
+  </div>
+</div>

@@ -1,0 +1,21 @@
+﻿id_horario_despacho_fk;id_despachador_fk;id_conductor_despachado_fk;id_revision_despacho_fk;fecha_salida_despacho;id_vehiculo_despachado_fk;estado_despacho;observacion_despacho
+1;1;6;1;2025-01-10;1;DESPACHADO;Salida realizada sin novedades.
+2;2;7;2;2025-01-11;2;DESPACHADO;Despacho autorizado.
+3;3;8;3;2025-01-12;3;DESPACHADO;Ruta iniciada puntualmente.
+4;4;9;4;2025-01-13;4;DESPACHADO;Inspección aprobada.
+5;5;10;5;2025-01-14;5;DESPACHADO;Salida normal.
+6;1;6;6;2025-01-15;6;DESPACHADO;Operación sin novedades.
+7;2;7;7;2025-01-16;7;DESPACHADO;Vehículo en buen estado.
+8;3;8;8;2025-01-17;8;SUSPENDIDO;Falla mecánica detectada.
+9;4;9;9;2025-01-18;9;DESPACHADO;Salida autorizada.
+10;5;10;10;2025-01-19;10;DESPACHADO;Sin observaciones.
+11;1;6;11;2025-01-20;11;DESPACHADO;Documentación verificada.
+12;2;7;12;2025-01-21;12;DESPACHADO;Despacho efectuado.
+13;3;8;13;2025-01-22;13;SUSPENDIDO;Revisión técnica no aprobada.
+14;4;9;14;2025-01-23;14;DESPACHADO;Salida puntual.
+15;5;10;15;2025-01-24;15;DESPACHADO;Sin novedades.
+16;1;6;16;2025-01-25;16;DESPACHADO;Operación normal.
+17;2;7;17;2025-01-26;17;DESPACHADO;Ruta iniciada correctamente.
+18;3;8;18;2025-01-27;18;DESPACHADO;Revisión satisfactoria.
+19;4;9;19;2025-01-28;19;SUSPENDIDO;Condiciones climáticas adversas.
+20;5;10;20;2025-01-29;20;DESPACHADO;Despacho completado.

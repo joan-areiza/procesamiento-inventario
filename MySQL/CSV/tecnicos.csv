@@ -1,0 +1,21 @@
+﻿nombres_tecnico;apellidos_tecnico;cod_sexo_tecnico_fk;correo_tecnico;telefono_tecnico;clave_tecnico;fecha_nacimiento_tecnico;id_estado_civil_tecnico_fk;estado_tecnico
+Álvaro Enrique;Gómez Valencia;M;alvaro.gomez@taxbelalcazar.com;3108745123;Alvaro@2025;1981-04-18;2;1
+Mauricio Andrés;Benavides Muñoz;M;mauricio.benavides@taxbelalcazar.com;3119632587;Mauricio@2025;1984-09-02;1;1
+Diana Carolina;Caicedo López;F;diana.caicedo@taxbelalcazar.com;3127845632;Diana@2025;1990-01-25;2;1
+Jhon Alexander;Córdoba Rojas;M;jhon.cordoba@taxbelalcazar.com;3136521478;Jhon@2025;1987-12-14;3;1
+Henry Alberto;Rivera Campo;M;henry.rivera@taxbelalcazar.com;3147854126;Henry@2025;1979-08-06;2;1
+Patricia Elena;Hurtado Ordóñez;F;patricia.hurtado@taxbelalcazar.com;3156987451;Patricia@2025;1985-05-21;2;1
+Cristian Felipe;Morales Paz;M;cristian.morales@taxbelalcazar.com;3168741259;Cristian@2025;1992-10-30;1;1
+Ángela María;Insuasty Delgado;F;angela.insuasty@taxbelalcazar.com;3179514862;Angela@2025;1988-03-17;3;1
+Wilson Javier;Torres Narváez;M;wilson.torres@taxbelalcazar.com;3187425963;Wilson@2025;1982-07-09;2;1
+Yolanda Esperanza;Cabrera Salazar;F;yolanda.cabrera@taxbelalcazar.com;3208631974;Yolanda@2025;1986-11-28;1;1
+Edgar Mauricio;López Fernández;M;edgar.lopez@taxbelalcazar.com;3217549863;Edgar@2025;1983-02-11;2;1
+Sandra Viviana;Guerrero Patiño;F;sandra.guerrero@taxbelalcazar.com;3228461975;Sandra@2025;1991-06-13;1;1
+Fernando José;Enríquez Rosero;M;fernando.enriquez@taxbelalcazar.com;3239574186;Fernando@2025;1980-09-07;4;1
+Claudia Marcela;Bravo Mera;F;claudia.bravo@taxbelalcazar.com;3507412589;Claudia@2025;1989-01-16;2;1
+Diego Hernán;Guachetá Cerón;M;diego.guacheta@taxbelalcazar.com;3518625397;Diego@2025;1984-12-22;3;1
+Liliana Rocío;Checa Bolaños;F;liliana.checa@taxbelalcazar.com;3106932584;Liliana@2025;1987-07-31;2;1
+Jaime Orlando;Meneses Muñoz;M;jaime.meneses@taxbelalcazar.com;3115847296;Jaime@2025;1978-05-10;2;1
+Martha Cecilia;Portilla Bastidas;F;martha.portilla@taxbelalcazar.com;3124758136;Martha@2025;1983-08-24;4;1
+Ricardo Hernando;Chilito Erazo;M;ricardo.chilito@taxbelalcazar.com;3132698457;Ricardo@2025;1986-04-03;1;1
+Adriana Lucía;Burbano Paz;F;adriana.burbano@taxbelalcazar.com;3141587369;Adriana@2025;1990-10-19;1;1

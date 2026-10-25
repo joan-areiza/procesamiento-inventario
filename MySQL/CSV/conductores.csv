@@ -1,0 +1,21 @@
+﻿numero_licencia_conductor;nombres_conductor;apellidos_conductor;cod_sexo_conductor_fk;correo_conductor;telefono_conductor;clave_conductor;fecha_nacimiento_conductor;id_estado_civil_conductor_fk;estado_conductor
+1600123456;Carlos Andrés;Pérez Gómez;M;carlos.perez@taxbelalcazar.com;3104567890;Carlos@2025;1985-03-15;2;1
+1600234567;Luis Fernando;Ramírez López;M;luis.ramirez@taxbelalcazar.com;3115678901;Luis@2025;1982-07-21;1;1
+1600345678;Jorge Eliécer;Muñoz Ortiz;M;jorge.munoz@taxbelalcazar.com;3126789012;Jorge@2025;1979-11-08;2;1
+1600456789;Miguel Ángel;Castro Rojas;M;miguel.castro@taxbelalcazar.com;3137890123;Miguel@2025;1988-02-17;3;1
+1600567890;Diego Alejandro;Martínez Peña;M;diego.martinez@taxbelalcazar.com;3148901234;Diego@2025;1990-06-29;1;1
+1600678901;Sandra Milena;Rodríguez Paz;F;sandra.rodriguez@taxbelalcazar.com;3159012345;Sandra@2025;1987-01-14;2;1
+1600789012;María Fernanda;Velasco Díaz;F;maria.velasco@taxbelalcazar.com;3160123456;Maria@2025;1992-04-25;1;1
+1600890123;Andrés Felipe;Hernández Castillo;M;andres.hernandez@taxbelalcazar.com;3171234567;Andres@2025;1986-08-11;3;1
+1600901234;Ricardo Antonio;Quintero Gómez;M;ricardo.quintero@taxbelalcazar.com;3182345678;Ricardo@2025;1981-09-19;2;1
+1601012345;Juan Camilo;García Moreno;M;juan.garcia@taxbelalcazar.com;3203456789;Juan@2025;1991-12-03;1;1
+1601123456;Paola Andrea;Sánchez López;F;paola.sanchez@taxbelalcazar.com;3214567890;Paola@2025;1989-05-27;1;1
+1601234567;Óscar Javier;Valencia Cruz;M;oscar.valencia@taxbelalcazar.com;3225678901;Oscar@2025;1980-10-16;4;1
+1601345678;Freddy Alexander;Campo Muñoz;M;freddy.campo@taxbelalcazar.com;3236789012;Freddy@2025;1983-03-09;2;1
+1601456789;William Ernesto;Hoyos Rincón;M;william.hoyos@taxbelalcazar.com;3507890123;William@2025;1978-06-05;2;1
+1601567890;Nancy Patricia;Mosquera Ruiz;F;nancy.mosquera@taxbelalcazar.com;3518901234;Nancy@2025;1986-11-20;3;1
+1601678901;Héctor Fabio;Salazar Gómez;M;hector.salazar@taxbelalcazar.com;3109012345;Hector@2025;1984-07-12;1;1
+1601789012;Gloria Esperanza;Ordoñez Pérez;F;gloria.ordonez@taxbelalcazar.com;3110123456;Gloria@2025;1985-09-18;2;1
+1601890123;César Augusto;Navia Hurtado;M;cesar.navia@taxbelalcazar.com;3121234567;Cesar@2025;1988-01-30;1;0
+1601901234;Rubén Darío;Perdomo Castro;M;ruben.perdomo@taxbelalcazar.com;3132345678;Ruben@2025;1977-04-22;4;1
+1602012345;Mónica Liliana;Bolaños Muñoz;F;monica.bolanos@taxbelalcazar.com;3143456789;Monica@2025;1991-08-07;1;0

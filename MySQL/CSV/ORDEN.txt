@@ -1,0 +1,21 @@
+1. sexos
+2. estados_civil
+3. tipos_documento
+4. roles
+5. categorias_licencia
+6. categorias_multa
+7. categorias_ruta
+8. regiones
+9. departamentos
+10. municipios
+11. marcas
+12. modelos
+13. tipos_vehiculo
+14. rutas_transporte
+15. usuarios, despachador, conductor, tecnico,admin
+16. licencias_&_conductores
+17. vehiculos
+18. horarios
+19. revisiones_tecnicas
+20. despachos
+21. multas
